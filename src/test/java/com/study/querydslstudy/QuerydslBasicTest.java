@@ -17,8 +17,6 @@ import com.study.querydslstudy.entity.Member;
 import com.study.querydslstudy.entity.QMember;
 import com.study.querydslstudy.entity.QTeam;
 import com.study.querydslstudy.entity.Team;
-import org.assertj.core.api.Assertions;
-import org.h2.engine.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
